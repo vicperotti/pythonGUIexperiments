@@ -1,3 +1,4 @@
+#based on https://likegeeks.com/python-gui-examples-tkinter-tutorial/#Get-input-using-Entry-class-Tkinter-textbox
 from tkinter import *
 
 window = Tk()
